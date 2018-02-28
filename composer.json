@@ -1,0 +1,9 @@
+{
+    "name": "syzin12/syzinBot",
+    "type": "project",
+    "require": {
+        "php": ">=5.5.0",
+        "longman/telegram-bot": "*",
+		"sunra/php-simple-html-dom-parser": "*"
+    }
+}

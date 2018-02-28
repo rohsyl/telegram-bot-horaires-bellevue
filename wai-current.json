@@ -1,0 +1,82 @@
+{
+	"lundi": [
+		{
+			"name": "ERP",
+			"timeS": "12:45",
+			"timeE": "14:15",
+			"place": "302"
+		}
+	],
+	"mardi" : [
+		{
+			"name": "Algorithmes",
+			"timeS": "08:30",
+			"timeE": "11:50",
+			"place": "309"
+		},{
+			"name": "Statistiques",
+			"timeS": "12:45",
+			"timeE": "14:15",
+			"place": "302"
+		},{
+			"name": "Structures de données",
+			"timeS": "14:30",
+			"timeE": "16:00",
+			"place": "302"
+		}
+	],
+	"mercredi" : [
+		{
+			"name": "Comptabilité analytique",
+			"timeS": "08:30",
+			"timeE": "10:00",
+			"place": "103"
+		},{
+			"name": "Pratique",
+			"timeS": "10:20",
+			"timeE": "11:50",
+			"place": "103"
+		},{
+			"name": "SI Implementation",
+			"timeS": "12:45",
+			"timeE": "16:00",
+			"place": "204"
+		}
+	],
+	"jeudi" : [
+		{
+			"name": "Application protocols",
+			"timeS": "08:30",
+			"timeE": "11:50",
+			"place": "305"
+		},{
+			"name": "UX",
+			"timeS": "12:45",
+			"timeE": "14:15",
+			"place": "302"
+		},{
+			"name": "Distributed progr.",
+			"timeS": "14:30",
+			"timeE": "16:00",
+			"place": "302"
+		}
+	],
+	"vendredi" : [
+		{
+			"name": "Java",
+			"timeS": "08:30",
+			"timeE": "10:00",
+			"place": "308"
+		},{
+			"name": "Descr. des organisations",
+			"timeS": "10:20",
+			"timeE": "11:50",
+			"place": "308"
+		},{
+			"name": "BPM",
+			"timeS": "12:45",
+			"timeE": "14:15",
+			"place": "304"
+		}
+	]
+}
